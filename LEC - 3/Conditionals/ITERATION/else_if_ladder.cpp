@@ -2,7 +2,8 @@
 using namespace std;
 int main()
 {
-    int a = 0;
+    int a ;
+    cin>>a;
     if (a > 0)
     {
         cout << "A is positive" << endl;
